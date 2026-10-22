@@ -67,7 +67,7 @@ When doing a ticket, report all the steps and information but never password or 
 
 4) Tools & Technologies
 
-• Operating system - Windows (all versions) - Basic troubleshooting, updates, and setup
+• Operating system - Windows (all versions) - Basic troubleshooting, updates, and setup &]
 • PC maintenance - software updates, general maintenance
 • Networking - Basic connectivity issues - Identify basic connectivity issues and check for fix
 • Printing - Printer connection and queues - Resolve printing issues
