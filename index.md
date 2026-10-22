@@ -60,4 +60,7 @@ When doing a ticket, report all the steps and information but never password or 
 • Take the personal info of the customer and the basic info about the issue
 • Ask more details about the issue, such as when the issue started and other helpful information
 • Check for basic issues such as connectivity, storage and software ones
-• 
+• Before doing anything, ask for user consent to proceed
+• Ask the user to repeat the action for which the ticked was initially opened
+• Document all the steps taken during the remote support session
+• Escalate the issue if necessary
