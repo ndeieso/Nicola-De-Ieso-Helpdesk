@@ -52,3 +52,7 @@ CASE 4 - Printer not working
 
 Checks: Check if the printer is on and check also the cables; check for paper; checks for pending jobs into the Windows printer interface.
 Next step/resolution: If these basics steps didn't help, check for possible driver issues.
+
+When doing a ticket, report all the steps and information but never password or other sensible data.
+
+3) Remote support
