@@ -73,3 +73,5 @@ When doing a ticket, report all the steps and information but never password or 
 • Printing - Printer connection and queues - Resolve printing issues
 • Email & accounts - Microsoft Outlook, Outlook.com, account issues - Check issues for Microsoft Outlook and issues for other accounts.
 • Remote support - Microsoft Remote Desktop, TeamViewer, AnyDesk - Assiste the user remotely when needed but only after authorization
+
+5) 
