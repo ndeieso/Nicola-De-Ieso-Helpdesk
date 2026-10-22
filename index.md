@@ -56,3 +56,8 @@ Next step/resolution: If these basics steps didn't help, check for possible driv
 When doing a ticket, report all the steps and information but never password or other sensible data.
 
 3) Remote support
+
+• Take the personal info of the customer and the basic info about the issue
+• Ask more details about the issue, such as when the issue started and other helpful information
+• Check for basic issues such as connectivity, storage and software ones
+• 
