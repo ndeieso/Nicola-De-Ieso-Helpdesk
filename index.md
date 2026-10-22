@@ -36,4 +36,11 @@ Strenghts
 CASE 1 - Computer is running slow
 
 Checks: Take info for when the problem began; check Task Manager to see open applications and services; restarte the computer
-Next step/resolution: 
+Next step/resolution: after checking for apps and services opened, check for other issues such as hardware issues to continue diagnose the problem
+
+CASE 2 - Cannot connect to a network
+
+Checks: Check for wired and wired connection; check other devices; check for configuration issues
+Next step/resolution: if the above didn't fix the problem, check for possible issues with network/Wifi adapter or even problem with the telecommunications provider.
+
+CASE 3 - 
