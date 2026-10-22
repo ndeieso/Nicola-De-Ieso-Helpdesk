@@ -14,3 +14,10 @@ Tasks
 • Network connectivity: Checks for general connectivity issues
 • Peripheral support: Assistance with peripherals
 • Email and accounts: Toubleshooting for email and accounts
+
+Steps which I do for the support
+
+1) Take all the informations from the customer to understand what is the problem and confirm it
+2) Do an initial check of the issue to be able to understand the source of the problem
+3) Once the source of the problem is confirmed, take the necessary steps to fix it
+4) 
