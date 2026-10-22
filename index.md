@@ -43,4 +43,7 @@ CASE 2 - Cannot connect to a network
 Checks: Check for wired and wired connection; check other devices; check for configuration issues
 Next step/resolution: if the above didn't fix the problem, check for possible issues with network/Wifi adapter or even problem with the telecommunications provider.
 
-CASE 3 - 
+CASE 3 - Issue with Outlook mails
+
+Checks: Check for local sync issues by checking both the desktop app and the web version. Check also for Internet connectivity.
+Next step/resolution: Check the local cache in case the issue in only on the desktop app; in case the issue is also on the web version, check for possible issues with the online account. If all of the steps don't work, escalade the issue to the email provider (Microsoft, Google, etc.)
