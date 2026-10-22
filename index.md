@@ -21,3 +21,11 @@ Steps which I do for the support
 2) Do an initial check of the issue to be able to understand the source of the problem
 3) Once the source of the problem is confirmed, take the necessary steps to fix it
 4) Take notes and write documentation about the issue's resolution
+
+Strenghts
+
+• Problem-solving and analytical skills.
+• Effective prioritization and workload management.
+• Methodical and results-oriented approach.
+• Customer-focused mindset and service orientation.
+• Clear communication and active listening skills.
