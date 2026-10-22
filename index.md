@@ -47,3 +47,8 @@ CASE 3 - Issue with Outlook mails
 
 Checks: Check for local sync issues by checking both the desktop app and the web version. Check also for Internet connectivity.
 Next step/resolution: Check the local cache in case the issue in only on the desktop app; in case the issue is also on the web version, check for possible issues with the online account. If all of the steps don't work, escalade the issue to the email provider (Microsoft, Google, etc.)
+
+CASE 4 - Printer not working
+
+Checks: Check if the printer is on and check also the cables; check for paper; checks for pending jobs into the Windows printer interface.
+Next step/resolution: If these basics steps didn't help, check for possible driver issues.
