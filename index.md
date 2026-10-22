@@ -77,3 +77,5 @@ When doing a ticket, report all the steps and information but never password or 
 5) What I bring to your team
 
 • Many years of experience with supporting final customers and SMB
+• Familiarity with the common technology: Windows, Microsoft, Android.
+• Willingness to continuously learning about technologies and specializes outils, such as ticketing ones. 
