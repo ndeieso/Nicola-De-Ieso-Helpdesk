@@ -13,4 +13,4 @@ Tasks
 • Windows support: Support for all Windows versions
 • Network connectivity: Checks for general connectivity issues
 • Peripheral support: Assistance with peripherals
-• 
+• Email and accounts: Toubleshooting for email and accounts
