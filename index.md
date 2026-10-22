@@ -11,4 +11,4 @@ Tasks
 
 • Desktop support: Checks for general issues with computers
 • Windows support: Support for all Windows versions
-• Network connectivity: 
+• Network connectivity: Checks for general connectivity issues
