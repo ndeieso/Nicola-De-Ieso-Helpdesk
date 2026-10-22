@@ -9,11 +9,15 @@ About 20 years of experience as a freelance working in IT support.
 
 Tasks
 
-• Desktop support: Checks for general issues with computers
-• Windows support: Support for all Windows versions
-• Network connectivity: Checks for general connectivity issues
-• Peripheral support: Assistance with peripherals
-• Email and accounts: Toubleshooting for email and accounts
+• Desktop support: Checks for general issues with computers.
+
+• Windows support: Support for all Windows versions.
+
+• Network connectivity: Checks for general connectivity issues.
+
+• Peripheral support: Assistance with peripherals.
+
+• Email and accounts: Toubleshooting for email and accounts.
 
 Steps which I do for the support
 
@@ -25,9 +29,13 @@ Steps which I do for the support
 Strenghts
 
 • Problem-solving and analytical skills.
+
 • Effective prioritization and workload management.
+
 • Methodical and results-oriented approach.
+
 • Customer-focused mindset and service orientation.
+
 • Clear communication and active listening skills.
 
 
