@@ -29,3 +29,11 @@ Strenghts
 • Methodical and results-oriented approach.
 • Customer-focused mindset and service orientation.
 • Clear communication and active listening skills.
+
+
+2) Trobleshooting examples
+
+CASE 1 - Computer is running slow
+
+Checks: Take info for when the problem began; check Task Manager to see open applications and services; restarte the computer
+Next step/resolution: 
