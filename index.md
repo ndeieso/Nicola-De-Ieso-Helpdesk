@@ -3,4 +3,8 @@ IT Support - Helpdesk
 
 English
 
+1) Experience
+
+About 20 years of experience as a freelance working in IT support.
+
 
