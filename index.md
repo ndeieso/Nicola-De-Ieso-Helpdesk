@@ -64,3 +64,12 @@ When doing a ticket, report all the steps and information but never password or 
 • Ask the user to repeat the action for which the ticked was initially opened
 • Document all the steps taken during the remote support session
 • Escalate the issue if necessary
+
+4) Tools & Technologies
+
+• Operating system - Windows (all versions) - Basic troubleshooting, updates, and setup
+• PC maintenance - software updates, general maintenance
+• Networking - Basic connectivity issues - Identify basic connectivity issues and check for fix
+• Printing - Printer connection and queues - Resolve printing issues
+• Email & accounts - Microsoft Outlook, Outlook.com, account issues - Check issues for Microsoft Outlook and issues for other accounts.
+• 
