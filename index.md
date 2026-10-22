@@ -1,4 +1,4 @@
-<span style="color: red;">Nicola De Ieso</span>
+Nicola De Ieso
 IT Support - Helpdesk
 
 English
