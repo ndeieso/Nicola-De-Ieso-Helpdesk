@@ -1,53 +1,89 @@
 Nicola De Ieso IT Support - Helpdesk
 English
+
 1.	Experience
 About twenty years of experience as a freelance working in IT support.
+
 Tasks
 • Desktop support: Checks for general issues with computers.
+
 • Windows support: Support for all Windows versions.
+
 • Network connectivity: Checks for general connectivity issues.
+
 • Peripheral support: Assistance with peripherals.
+
 • Email and accounts: Troubleshooting for email and accounts.
+
 Steps which I do for support
 1.	Take all the information from the customer to understand what the problem is and confirm it.
 2.	Do an initial check of the issue to be able to understand the source of the problem.
 3.	Once the source of the problem is found, take the necessary steps to fix it.
 4.	Take notes and write documentation about the issue's resolution.
+
 Strengths
 • Problem-solving and analytical skills.
+
 • Effective prioritization and workload management.
+
 • Methodical and results-oriented approach.
+
 • Customer-focused mindset and service orientation.
+
 • Clear communication and active listening skills.
+
 2.	Trobleshooting examples
+
 CASE 1 - Computer is running slow
+
 Checks: Take info about when the problem began; check Task Manager to see open applications and services; restart the computer.
+
 Next step/resolution: after checking for apps and services opened, check for other issues such as hardware issues to continue diagnosing the problem.
+
 CASE 2 - Cannot connect to a network
+
 Checks: Check for wired and wired connection; check other devices; check for configuration issues.
+
 Next step/resolution: if the above didn't fix the problem, check for possible issues with network/Wi-Fi adapter or even problems with the telecommunications provider.
+
 CASE 3 - Issue with Outlook mails
+
 Checks: Check for local sync issues by checking both the desktop app and the web version. Check also for Internet connectivity.
+
 Next step/resolution: Check the local cache in case the issue is only on the desktop app; in case the issue is also on the web version, check for possible issues with the online account. If all the steps don't work, escalate the issue to the email provider (Microsoft, Google, etc.)
+
 CASE 4 - Printer not working
-Checks: Check if the printer is on and checks also the cables; check for paper; checks for pending jobs into the Windows printer interface. Next step/resolution: If these basics steps don’t help, check for possible driver issues.
+
+Checks: Check if the printer is on and checks also the cables; check for paper; checks for pending jobs into the Windows printer interface. 
+
+Next step/resolution: If these basics steps don’t help, check for possible driver issues.
+
 When doing a ticket, report all the steps and information but never password or other sensible data.
-3.	Remote support
+
+4.	Remote support
 • Take the personal info of the customer and the basic info about the issue.
+
 • Ask more details about the issue, such as when the issue started and other helpful information.
+
 • Check for basic issues such as connectivity, storage and software ones.
+
 • Before doing anything, ask for user consent to proceed.
+
 • Ask the user to repeat the action for which the ticked was initially opened.
+
 • Document all the steps taken during the remote support session.
+
 • Escalate the issue if necessary.
-4.	Tools & Technologies
+
+5.	Tools & Technologies
+
 • Operating system - Windows (all versions) - Basic troubleshooting, updates, and setup.
 • PC maintenance - software updates, general maintenance.
 • Networking - Basic connectivity issues - Identify basic connectivity issues and check for fix.
 • Printing - Printer connection and queues - Resolve printing issues.
 • Email & accounts - Microsoft Outlook, Outlook.com, account issues - Check issues for Microsoft Outlook and issues for other accounts.
 • Remote support - Microsoft Remote Desktop, TeamViewer, AnyDesk - Assiste the user remotely when needed but only after authorization.
-5.	What I bring to your team
+6.	What I bring to your team
 • Many years of experience with supporting final customers and SMB.
 • Familiarity with the common technology: Windows, Microsoft, Android.
 • Willingness to continuously learning about technologies and specializes outils, such as ticketing ones.
